@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Gwendolyn:wght@700&display=swap');
+
+.navbar {
+    background-color: rgb(204, 184, 223);
+    height: 80px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 40%;
+}
+
+.logo {
+    height: 30px;
+    width: 100%;
+}
+
+.navbar ul {
+    list-style-type: none;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    word-spacing: 25px;
+}
+
+ul li {
+    text-decoration: none;
+    color: #443e49;
+    font-size: 25px;
+    display: inline-block;
+
+
+
+}
+
+ul li a {
+    text-decoration: none;
+    word-spacing: 50px;
+    padding: 15;
+
+}
+
+.last3 {
+    display: inline-block
+}
+
+.last3 a {
+    display: block;
+    padding: 20px 30px;
+    text-align: left;
+    color: #443e49;
+}
+
+.first3 a {
+    color: #443e49
+}
+
+.first3 a:hover {
+    color: #8b35db;
+}
+
+
+.last3 a:hover {
+    color: #8635db;
+}
+
+.food {
+    text-align: center;
+    margin: 50px;
+}
+
+h1 {
+    font-family: Gwendolyn;
+    font-size: 40px;
+    color: #443e49;
+    text-align: center;
+    margin-top: 50px;
+
+}
+
+p {
+    text-align: center;
+    font-size: 20px;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 50px;
+}
+
+h3 {
+    text-align: center;
+    font-style: italic;
+}
+
+h4 {
+    text-align: center;
+
+}
