@@ -185,3 +185,63 @@ h3 {
 h4 {
     text-align: center;
 }
+
+p {
+    text-align: center;
+}
+
+.snore p {
+    padding: 35px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: 80px;
+    text-align: center;
+    margin-right: 80px;
+    margin-top: -40px;
+
+}
+
+.snore h4 {
+    margin-top: -60px;
+    margin-bottom: -15px;
+    font-size: 16px;
+
+
+}
+
+.nut p {
+    align-items: center;
+    text-align: center;
+    padding-left: 80px;
+    padding-right: 80px;
+    margin: 80px;
+    margin-top: -10px;
+    margin-left: 25px;
+    margin-right: 25px;
+
+}
+
+.nut h4 {
+    margin-top: -65px;
+    margin-bottom: -30px;
+}
+
+.bar p {
+    margin-top: -10px;
+    font-size: 20px;
+}
+
+.bar h4 {
+    margin-top: -5px;
+    margin-bottom: -30px;
+    font-size: 16px;
+}
+
+.box p {
+    margin-top: -15px;
+}
+
+.box h4 {
+    margin-top: -5px;
+    font-size: 16px;
+}
