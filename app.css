@@ -249,3 +249,19 @@ p {
 .picatta p {
     margin-top: 10px;
 }
+
+.page1 h1 {
+    padding: 10px;
+}
+
+.page1 h2 {
+    margin-top: 20px;
+}
+
+.page1 p {
+    margin-top: -10px;
+}
+
+address {
+    text-align: center;
+}
