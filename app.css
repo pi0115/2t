@@ -60,7 +60,7 @@ h1 {
     padding: 10px 40px;
     color: #f3f1f1;
     text-align: center;
-    margin-left: 25px;
+    margin-left: 60px;
     font-weight: 600;
 }
 
@@ -264,4 +264,13 @@ p {
 
 address {
     text-align: center;
+}
+
+.church img {
+    margin-left: 90px;
+}
+
+.buffet img {
+    width: auto;
+    height: auto;
 }
